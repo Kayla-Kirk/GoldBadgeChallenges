@@ -1,0 +1,2 @@
+E:\ElevenFiftyProjects\GoldBadgeChallenges\GoldBadgeChallenges\KomodoOutings\obj\Debug\KomodoOutings.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\GoldBadgeChallenges\GoldBadgeChallenges\KomodoOutings\obj\Debug\KomodoOutings.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+E:\ElevenFiftyProjects\GoldBadgeChallenges\GoldBadgeChallenges\KomodoClaims\obj\Debug\KomodoClaims.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\GoldBadgeChallenges\GoldBadgeChallenges\KomodoClaims\obj\Debug\KomodoClaims.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\GoldBadgeChallenges\GoldBadgeChallenges\KomodoClaims\bin\Debug\KomodoClaims.exe.config
+E:\ElevenFiftyProjects\GoldBadgeChallenges\GoldBadgeChallenges\KomodoClaims\bin\Debug\KomodoClaims.exe
+E:\ElevenFiftyProjects\GoldBadgeChallenges\GoldBadgeChallenges\KomodoClaims\bin\Debug\KomodoClaims.pdb
+E:\ElevenFiftyProjects\GoldBadgeChallenges\GoldBadgeChallenges\KomodoClaims\bin\Debug\KomodoClaimRepo.dll
+E:\ElevenFiftyProjects\GoldBadgeChallenges\GoldBadgeChallenges\KomodoClaims\bin\Debug\KomodoClaimRepo.pdb
+E:\ElevenFiftyProjects\GoldBadgeChallenges\GoldBadgeChallenges\KomodoClaims\obj\Debug\KomodoClaims.csproj.CopyComplete
+E:\ElevenFiftyProjects\GoldBadgeChallenges\GoldBadgeChallenges\KomodoClaims\obj\Debug\KomodoClaims.exe
+E:\ElevenFiftyProjects\GoldBadgeChallenges\GoldBadgeChallenges\KomodoClaims\obj\Debug\KomodoClaims.pdb
